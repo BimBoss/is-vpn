@@ -1,5 +1,6 @@
-Check if IP belongs to any VPN service
-IP's database continiusly grow
+Check if ip belongs to any VPN service.
+
+IPs database continiusly grow
 
 ```
 const { isVpn } = require('is-vpn'');
